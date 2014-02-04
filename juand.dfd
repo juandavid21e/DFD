@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+subTotal
+1
+0
+4
+edad
+1
+0
+6
+nombre
+2
+''
+4
+1
+18
+'Digite Edad',edad
+5
+1
+4
+edad
+4
+1
+25
+'Digite su Nombre',nombre
+5
+1
+6
+nombre
+4
+1
+27
+'Digite Sub-total',subTotal
+5
+1
+8
+subTotal
+4
+1
+75
+'El sub total es: ',subTotal, ' Su nombre es: ',nombre,' Su Edad es: ',edad
+1
